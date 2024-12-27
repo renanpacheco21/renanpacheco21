@@ -22,13 +22,9 @@
 
 ###
 
-<div align="center">
-  <a href="renanpacheco.adm@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=black&logoColor=white&labelColor=D14836&style=flat" height="24" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/renanpacheco/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=black&logoColor=white&labelColor=blue&style=flat" height="24" alt="linkedin logo"  />
-  </a>
+<div align="left">
+  <a href="mailto:renanpacheco.adm@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-404040?style=for-the-badge&logo=gmail&logoColor=red"></a>
+  <a href="https://www.linkedin.com/in/renanpacheco/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
 ###
