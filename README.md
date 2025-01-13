@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou Analista de Testes (QA). Atuo com ferramentas de automação como Playwright, Cypress, NightwatchJS, PactumJS, K6, JMeter, Postman e Insomnia, para testes End2End e API, além de realizar planejamento de testes com BDD e validação de banco de dados (PostgreSQL/SQL). Experiência em metodologias ágeis (SCRUM) e gestão de projetos no JIRA e Git.</p>
+<p align="left">Sou Analista de Testes (QA), com experiência em testes manuais e automatizados para aplicações Web, Desktop, Mobile e APIs. Atuo com ferramentas de automação como Playwright, Cypress, NightwatchJS, PactumJS, K6, JMeter, Postman e Insomnia, para testes End2End e API, além de realizar planejamento de testes com BDD e validação de banco de dados (PostgreSQL/SQL). Experiência em metodologias ágeis (SCRUM) e gestão de projetos no JIRA e Git.</p>
 
 
 ##
