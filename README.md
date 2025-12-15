@@ -17,8 +17,8 @@
 </div>
 
 ## 🛠️  Linguagens e Ferramentas
-![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright&titles=true,git&theme=light)
-[![My Skills](https://skillicons.dev/icons?i=androidstudio,postman,postgresql,docker,nodejs,github,js,ts,html&theme=light )](https://skillicons.dev)
+![My Skills](https://go-skill-icons.vercel.app/api/icons?i=cypress,playwright&titles=true,git&theme=dark)
+[![My Skills](https://skillicons.dev/icons?i=androidstudio,postman,postgresql,docker,nodejs,py,github,js,ts,html&theme=dark )](https://skillicons.dev)
 
 ###
 
